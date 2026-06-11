@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "ticker": "AMZN",
+  "cik": "0001018724",
+  "legalName": "AMAZON.COM, INC.",
+  "sicCode": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "businessDescription": {
+    "value": "This Annual Report on Form 10-K and the documents incorporated herein by reference contain forward-looking statements based on expectations, estimates, and projections as of the date of this filing. Actual results and outcomes may differ materially from those expressed in forward-looking statements.…",
+    "source": "SEC EDGAR 10-K filed 2026-02-06, Item 1 (Business), extracted excerpt",
+    "asOf": "2026-02-06"
+  },
+  "currency": "USD",
+  "fiscalYears": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "source": "SEC EDGAR 10-K filed 2024-02-02 (CIK 0001018724)",
+      "revenue": 469822000000,
+      "costOfRevenue": 272344000000,
+      "grossProfit": null,
+      "operatingIncome": 24879000000,
+      "researchAndDevelopment": null,
+      "sellingGeneralAndAdmin": 41374000000,
+      "depreciationAndAmortization": 34433000000,
+      "capex": 61053000000,
+      "incomeTaxExpense": 4791000000,
+      "pretaxIncome": 38151000000,
+      "netIncome": 33364000000,
+      "accountsReceivable": 32891000000,
+      "accountsPayable": 78664000000,
+      "inventory": 32640000000,
+      "dilutedShares": 10296000000
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "source": "SEC EDGAR 10-K filed 2025-02-07 (CIK 0001018724)",
+      "revenue": 513983000000,
+      "costOfRevenue": 288831000000,
+      "grossProfit": null,
+      "operatingIncome": 12248000000,
+      "researchAndDevelopment": null,
+      "sellingGeneralAndAdmin": 54129000000,
+      "depreciationAndAmortization": 41921000000,
+      "capex": 63645000000,
+      "incomeTaxExpense": -3217000000,
+      "pretaxIncome": -5936000000,
+      "netIncome": -2722000000,
+      "accountsReceivable": 42360000000,
+      "accountsPayable": 79600000000,
+      "inventory": 34405000000,
+      "dilutedShares": 10189000000
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "source": "SEC EDGAR 10-K filed 2026-02-06 (CIK 0001018724)",
+      "revenue": 574785000000,
+      "costOfRevenue": 304739000000,
+      "grossProfit": null,
+      "operatingIncome": 36852000000,
+      "researchAndDevelopment": null,
+      "sellingGeneralAndAdmin": 56186000000,
+      "depreciationAndAmortization": 48663000000,
+      "capex": 52729000000,
+      "incomeTaxExpense": 7120000000,
+      "pretaxIncome": 37557000000,
+      "netIncome": 30425000000,
+      "accountsReceivable": 52253000000,
+      "accountsPayable": 84981000000,
+      "inventory": 33318000000,
+      "dilutedShares": 10492000000
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "source": "SEC EDGAR 10-K filed 2026-02-06 (CIK 0001018724)",
+      "revenue": 637959000000,
+      "costOfRevenue": 326288000000,
+      "grossProfit": null,
+      "operatingIncome": 68593000000,
+      "researchAndDevelopment": null,
+      "sellingGeneralAndAdmin": 55266000000,
+      "depreciationAndAmortization": 52795000000,
+      "capex": 82999000000,
+      "incomeTaxExpense": 9265000000,
+      "pretaxIncome": 68614000000,
+      "netIncome": 59248000000,
+      "accountsReceivable": 55451000000,
+      "accountsPayable": 94363000000,
+      "inventory": 34214000000,
+      "dilutedShares": 10721000000
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "source": "SEC EDGAR 10-K filed 2026-02-06 (CIK 0001018724)",
+      "revenue": 716924000000,
+      "costOfRevenue": 356414000000,
+      "grossProfit": null,
+      "operatingIncome": 79975000000,
+      "researchAndDevelopment": null,
+      "sellingGeneralAndAdmin": 58301000000,
+      "depreciationAndAmortization": 65756000000,
+      "capex": 131819000000,
+      "incomeTaxExpense": 19087000000,
+      "pretaxIncome": 97311000000,
+      "netIncome": 77670000000,
+      "accountsReceivable": 67729000000,
+      "accountsPayable": 121909000000,
+      "inventory": 38325000000,
+      "dilutedShares": 10827000000
+    }
+  ],
+  "segments": null,
+  "segmentsNote": "Segment revenue is reported with XBRL dimensions, which the SEC companyfacts API does not expose; left null rather than approximated. See the 10-K segment footnote for reported segments.",
+  "netDebt": {
+    "totalDebt": {
+      "value": 68396000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2025-12-31: long-term + current debt",
+      "asOf": "2025-12-31"
+    },
+    "cashAndShortTermInvestments": {
+      "value": 123029000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2025-12-31: cash & equivalents + short-term investments",
+      "asOf": "2025-12-31"
+    },
+    "netDebt": {
+      "value": -54633000000,
+      "source": "computed: total debt − cash & short-term investments (SEC EDGAR 10-K at 2025-12-31)",
+      "asOf": "2025-12-31"
+    }
+  },
+  "market": {
+    "provider": "Yahoo Finance (no-key fallback)",
+    "price": {
+      "value": 244.19,
+      "source": "Yahoo Finance public chart API, regular market price as of 2026-06-09",
+      "asOf": "2026-06-09"
+    },
+    "marketCap": {
+      "value": 2626778553176.84,
+      "source": "computed: Yahoo price as of 2026-06-09 x shares outstanding (SEC EDGAR 10-Q filed 2026-04-30, cover-page shares outstanding as of 2026-04-22)",
+      "asOf": "2026-06-09"
+    },
+    "sharesOutstanding": {
+      "value": 10757109436,
+      "source": "SEC EDGAR 10-Q filed 2026-04-30, cover-page shares outstanding as of 2026-04-22",
+      "asOf": "2026-04-22"
+    },
+    "beta": {
+      "value": 1.5,
+      "source": "computed from 105 weekly adjusted-close returns of AMZN vs S&P 500 (^GSPC), Yahoo Finance, as of 2026-06-09",
+      "asOf": "2026-06-09",
+      "method": "2-year weekly regression beta (cov/var vs ^GSPC)"
+    }
+  },
+  "riskFreeRate": {
+    "value": 0.0453,
+    "source": "U.S. Department of the Treasury, daily par yield curve, 10-year, as of 2026-06-09",
+    "asOf": "2026-06-09"
+  },
+  "generatedAt": "2026-06-09T22:37:50.335Z"
+}

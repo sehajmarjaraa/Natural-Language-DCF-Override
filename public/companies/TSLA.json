@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "ticker": "TSLA",
+  "cik": "0001318605",
+  "legalName": "Tesla, Inc.",
+  "sicCode": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "businessDescription": {
+    "value": "Overview We are focused on bringing artificial intelligence (&#8220;AI&#8221;) into the real world, through products and services like Full Self-Driving (&#8220;FSD&#8221;) (Supervised) and Robotaxi, as well as working to develop and commercialize AI robots (&#8220;Bots&#8221;) (including Optimus). We intend to leverage our current operations, in which we design, develop, manufacture, sell and lease high-performance fully electric vehicles and energy generation and storage systems that increasingly deliver AI-related and enhanced software and services to our customers, to achieve that objective. We generally sell our products directly to customers, and continue to grow our global retail,…",
+    "source": "SEC EDGAR 10-K filed 2026-01-29, Item 1 (Business), extracted excerpt",
+    "asOf": "2026-01-29"
+  },
+  "currency": "USD",
+  "fiscalYears": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "source": "SEC EDGAR 10-K filed 2024-01-29 (CIK 0001318605)",
+      "revenue": 53823000000,
+      "costOfRevenue": 40217000000,
+      "grossProfit": 13606000000,
+      "operatingIncome": 6523000000,
+      "researchAndDevelopment": 2593000000,
+      "sellingGeneralAndAdmin": 4517000000,
+      "depreciationAndAmortization": 1910000000,
+      "capex": 6482000000,
+      "incomeTaxExpense": 699000000,
+      "pretaxIncome": 6343000000,
+      "netIncome": 5519000000,
+      "accountsReceivable": 1913000000,
+      "accountsPayable": 10025000000,
+      "inventory": 5757000000,
+      "dilutedShares": 3386000000
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "source": "SEC EDGAR 10-K filed 2025-01-30 (CIK 0001318605)",
+      "revenue": 81462000000,
+      "costOfRevenue": 60609000000,
+      "grossProfit": 20853000000,
+      "operatingIncome": 13656000000,
+      "researchAndDevelopment": 3075000000,
+      "sellingGeneralAndAdmin": 3946000000,
+      "depreciationAndAmortization": 2420000000,
+      "capex": 7158000000,
+      "incomeTaxExpense": 1132000000,
+      "pretaxIncome": 13719000000,
+      "netIncome": 12556000000,
+      "accountsReceivable": 2952000000,
+      "accountsPayable": 15255000000,
+      "inventory": 12839000000,
+      "dilutedShares": 3475000000
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "source": "SEC EDGAR 10-K filed 2026-01-29 (CIK 0001318605)",
+      "revenue": 96773000000,
+      "costOfRevenue": 79113000000,
+      "grossProfit": 17660000000,
+      "operatingIncome": 8891000000,
+      "researchAndDevelopment": 3969000000,
+      "sellingGeneralAndAdmin": 4800000000,
+      "depreciationAndAmortization": 3330000000,
+      "capex": 8899000000,
+      "incomeTaxExpense": -5001000000,
+      "pretaxIncome": 9973000000,
+      "netIncome": 14997000000,
+      "accountsReceivable": 3508000000,
+      "accountsPayable": 14431000000,
+      "inventory": 13626000000,
+      "dilutedShares": 3485000000
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "source": "SEC EDGAR 10-K filed 2026-01-29 (CIK 0001318605)",
+      "revenue": 97690000000,
+      "costOfRevenue": 80240000000,
+      "grossProfit": 17450000000,
+      "operatingIncome": 7076000000,
+      "researchAndDevelopment": 4540000000,
+      "sellingGeneralAndAdmin": 5150000000,
+      "depreciationAndAmortization": 4120000000,
+      "capex": 11342000000,
+      "incomeTaxExpense": 1837000000,
+      "pretaxIncome": 8990000000,
+      "netIncome": 7091000000,
+      "accountsReceivable": 4418000000,
+      "accountsPayable": 12474000000,
+      "inventory": 12017000000,
+      "dilutedShares": 3498000000
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "source": "SEC EDGAR 10-K filed 2026-01-29 (CIK 0001318605)",
+      "revenue": 94827000000,
+      "costOfRevenue": 77733000000,
+      "grossProfit": 17094000000,
+      "operatingIncome": 4355000000,
+      "researchAndDevelopment": 6411000000,
+      "sellingGeneralAndAdmin": 5834000000,
+      "depreciationAndAmortization": 5030000000,
+      "capex": 8527000000,
+      "incomeTaxExpense": 1423000000,
+      "pretaxIncome": 5278000000,
+      "netIncome": 3794000000,
+      "accountsReceivable": 4576000000,
+      "accountsPayable": 13371000000,
+      "inventory": 12392000000,
+      "dilutedShares": 3528000000
+    }
+  ],
+  "segments": null,
+  "segmentsNote": "Segment revenue is reported with XBRL dimensions, which the SEC companyfacts API does not expose; left null rather than approximated. See the 10-K segment footnote for reported segments.",
+  "netDebt": {
+    "totalDebt": {
+      "value": 8153000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2025-12-31: long-term + current debt",
+      "asOf": "2025-12-31"
+    },
+    "cashAndShortTermInvestments": {
+      "value": 44059000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2025-12-31: cash & equivalents + short-term investments",
+      "asOf": "2025-12-31"
+    },
+    "netDebt": {
+      "value": -35906000000,
+      "source": "computed: total debt − cash & short-term investments (SEC EDGAR 10-K at 2025-12-31)",
+      "asOf": "2025-12-31"
+    }
+  },
+  "market": {
+    "provider": "Yahoo Finance (no-key fallback)",
+    "price": {
+      "value": 396.68,
+      "source": "Yahoo Finance public chart API, regular market price as of 2026-06-09",
+      "asOf": "2026-06-09"
+    },
+    "marketCap": {
+      "value": 1488514719413.12,
+      "source": "computed: Yahoo price as of 2026-06-09 x shares outstanding (SEC EDGAR 10-K/A filed 2026-04-30, cover-page shares outstanding as of 2026-01-23)",
+      "asOf": "2026-06-09"
+    },
+    "sharesOutstanding": {
+      "value": 3752431984,
+      "source": "SEC EDGAR 10-K/A filed 2026-04-30, cover-page shares outstanding as of 2026-01-23",
+      "asOf": "2026-01-23"
+    },
+    "beta": {
+      "value": 1.87,
+      "source": "computed from 105 weekly adjusted-close returns of TSLA vs S&P 500 (^GSPC), Yahoo Finance, as of 2026-06-09",
+      "asOf": "2026-06-09",
+      "method": "2-year weekly regression beta (cov/var vs ^GSPC)"
+    }
+  },
+  "riskFreeRate": {
+    "value": 0.0453,
+    "source": "U.S. Department of the Treasury, daily par yield curve, 10-year, as of 2026-06-09",
+    "asOf": "2026-06-09"
+  },
+  "generatedAt": "2026-06-09T22:37:56.894Z"
+}

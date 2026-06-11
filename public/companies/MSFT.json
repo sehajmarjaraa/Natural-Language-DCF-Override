@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "ticker": "MSFT",
+  "cik": "0000789019",
+  "legalName": "MICROSOFT CORPORATION",
+  "sicCode": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "businessDescription": {
+    "value": null,
+    "source": "unavailable at ingest: Item 1 pattern not found",
+    "asOf": null
+  },
+  "currency": "USD",
+  "fiscalYears": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-06-30",
+      "source": "SEC EDGAR 10-K filed 2023-07-27 (CIK 0000789019)",
+      "revenue": 168088000000,
+      "costOfRevenue": 52232000000,
+      "grossProfit": 115856000000,
+      "operatingIncome": 69916000000,
+      "researchAndDevelopment": 20716000000,
+      "sellingGeneralAndAdmin": 25224000000,
+      "depreciationAndAmortization": 9300000000,
+      "capex": 20622000000,
+      "incomeTaxExpense": 9831000000,
+      "pretaxIncome": 71102000000,
+      "netIncome": 61271000000,
+      "accountsReceivable": 38043000000,
+      "accountsPayable": 15163000000,
+      "inventory": 2636000000,
+      "dilutedShares": 7608000000
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-06-30",
+      "source": "SEC EDGAR 10-K filed 2024-07-30 (CIK 0000789019)",
+      "revenue": 198270000000,
+      "costOfRevenue": 62650000000,
+      "grossProfit": 135620000000,
+      "operatingIncome": 83383000000,
+      "researchAndDevelopment": 24512000000,
+      "sellingGeneralAndAdmin": 27725000000,
+      "depreciationAndAmortization": 12600000000,
+      "capex": 23886000000,
+      "incomeTaxExpense": 10978000000,
+      "pretaxIncome": 83716000000,
+      "netIncome": 72738000000,
+      "accountsReceivable": 44261000000,
+      "accountsPayable": 19000000000,
+      "inventory": 3742000000,
+      "dilutedShares": 7540000000
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-06-30",
+      "source": "SEC EDGAR 10-K filed 2025-07-30 (CIK 0000789019)",
+      "revenue": 211915000000,
+      "costOfRevenue": 65863000000,
+      "grossProfit": 146052000000,
+      "operatingIncome": 88523000000,
+      "researchAndDevelopment": 27195000000,
+      "sellingGeneralAndAdmin": 30334000000,
+      "depreciationAndAmortization": 11000000000,
+      "capex": 28107000000,
+      "incomeTaxExpense": 16950000000,
+      "pretaxIncome": 89311000000,
+      "netIncome": 72361000000,
+      "accountsReceivable": 48688000000,
+      "accountsPayable": 18095000000,
+      "inventory": 2500000000,
+      "dilutedShares": 7472000000
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-06-30",
+      "source": "SEC EDGAR 10-K filed 2025-07-30 (CIK 0000789019)",
+      "revenue": 245122000000,
+      "costOfRevenue": 74114000000,
+      "grossProfit": 171008000000,
+      "operatingIncome": 109433000000,
+      "researchAndDevelopment": 29510000000,
+      "sellingGeneralAndAdmin": 32065000000,
+      "depreciationAndAmortization": 15200000000,
+      "capex": 44477000000,
+      "incomeTaxExpense": 19651000000,
+      "pretaxIncome": 107787000000,
+      "netIncome": 88136000000,
+      "accountsReceivable": 56924000000,
+      "accountsPayable": 21996000000,
+      "inventory": 1246000000,
+      "dilutedShares": 7469000000
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-06-30",
+      "source": "SEC EDGAR 10-K filed 2025-07-30 (CIK 0000789019)",
+      "revenue": 281724000000,
+      "costOfRevenue": 87831000000,
+      "grossProfit": 193893000000,
+      "operatingIncome": 128528000000,
+      "researchAndDevelopment": 32488000000,
+      "sellingGeneralAndAdmin": 32877000000,
+      "depreciationAndAmortization": 22000000000,
+      "capex": 64551000000,
+      "incomeTaxExpense": 21795000000,
+      "pretaxIncome": 123627000000,
+      "netIncome": 101832000000,
+      "accountsReceivable": 69905000000,
+      "accountsPayable": 27724000000,
+      "inventory": 938000000,
+      "dilutedShares": 7465000000
+    }
+  ],
+  "segments": null,
+  "segmentsNote": "Segment revenue is reported with XBRL dimensions, which the SEC companyfacts API does not expose; left null rather than approximated. See the 10-K segment footnote for reported segments.",
+  "netDebt": {
+    "totalDebt": {
+      "value": 43151000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2025-06-30: long-term + current debt",
+      "asOf": "2025-06-30"
+    },
+    "cashAndShortTermInvestments": {
+      "value": 94565000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2025-06-30: cash & equivalents + short-term investments",
+      "asOf": "2025-06-30"
+    },
+    "netDebt": {
+      "value": -51414000000,
+      "source": "computed: total debt − cash & short-term investments (SEC EDGAR 10-K at 2025-06-30)",
+      "asOf": "2025-06-30"
+    }
+  },
+  "market": {
+    "provider": "Yahoo Finance (no-key fallback)",
+    "price": {
+      "value": 403.41,
+      "source": "Yahoo Finance public chart API, regular market price as of 2026-06-09",
+      "asOf": "2026-06-09"
+    },
+    "marketCap": {
+      "value": 2996704843940.64,
+      "source": "computed: Yahoo price as of 2026-06-09 x shares outstanding (SEC EDGAR 10-Q filed 2026-04-29, cover-page shares outstanding as of 2026-04-23)",
+      "asOf": "2026-06-09"
+    },
+    "sharesOutstanding": {
+      "value": 7428434704,
+      "source": "SEC EDGAR 10-Q filed 2026-04-29, cover-page shares outstanding as of 2026-04-23",
+      "asOf": "2026-04-23"
+    },
+    "beta": {
+      "value": 1.1,
+      "source": "computed from 105 weekly adjusted-close returns of MSFT vs S&P 500 (^GSPC), Yahoo Finance, as of 2026-06-09",
+      "asOf": "2026-06-09",
+      "method": "2-year weekly regression beta (cov/var vs ^GSPC)"
+    }
+  },
+  "riskFreeRate": {
+    "value": 0.0453,
+    "source": "U.S. Department of the Treasury, daily par yield curve, 10-year, as of 2026-06-09",
+    "asOf": "2026-06-09"
+  },
+  "generatedAt": "2026-06-09T22:37:44.749Z"
+}

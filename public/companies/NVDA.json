@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "ticker": "NVDA",
+  "cik": "0001045810",
+  "legalName": "NVIDIA CORP",
+  "sicCode": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "businessDescription": {
+    "value": "Our Company NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. NVIDIA is now a data center scale AI infrastructure company reshaping all industries. Our technology stack includes the foundational NVIDIA CUDA development platform that runs on all NVIDIA GPUs, as well as hundreds of domain-specific software libraries, frameworks, algorithms, software development kits, or SDKs, and application programming interfaces, or APIs. This deep and broad software stack accelerates the performance and facilitates the deployment of NVIDIA accelerated computing for computationally intensive workloads such as artificial intelligence, or AI, model training and…",
+    "source": "SEC EDGAR 10-K filed 2026-02-25, Item 1 (Business), extracted excerpt",
+    "asOf": "2026-02-25"
+  },
+  "currency": "USD",
+  "fiscalYears": [
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-01-30",
+      "source": "SEC EDGAR 10-K filed 2022-03-18 (CIK 0001045810)",
+      "revenue": 26914000000,
+      "costOfRevenue": 9439000000,
+      "grossProfit": 17475000000,
+      "operatingIncome": 10041000000,
+      "researchAndDevelopment": 5268000000,
+      "sellingGeneralAndAdmin": 2166000000,
+      "depreciationAndAmortization": 1174000000,
+      "capex": 976000000,
+      "incomeTaxExpense": 189000000,
+      "pretaxIncome": 9941000000,
+      "netIncome": 9752000000,
+      "accountsReceivable": 4650000000,
+      "accountsPayable": 1783000000,
+      "inventory": 2605000000,
+      "dilutedShares": 2535000000
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-01-29",
+      "source": "SEC EDGAR 10-K filed 2025-02-26 (CIK 0001045810)",
+      "revenue": 26974000000,
+      "costOfRevenue": 11618000000,
+      "grossProfit": 15356000000,
+      "operatingIncome": 4224000000,
+      "researchAndDevelopment": 7339000000,
+      "sellingGeneralAndAdmin": 2440000000,
+      "depreciationAndAmortization": 1544000000,
+      "capex": 1833000000,
+      "incomeTaxExpense": -187000000,
+      "pretaxIncome": 4181000000,
+      "netIncome": 4368000000,
+      "accountsReceivable": 3827000000,
+      "accountsPayable": 1193000000,
+      "inventory": 5159000000,
+      "dilutedShares": 25070000000
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-01-28",
+      "source": "SEC EDGAR 10-K filed 2026-02-25 (CIK 0001045810)",
+      "revenue": 60922000000,
+      "costOfRevenue": 16621000000,
+      "grossProfit": 44301000000,
+      "operatingIncome": 32972000000,
+      "researchAndDevelopment": 8675000000,
+      "sellingGeneralAndAdmin": 2654000000,
+      "depreciationAndAmortization": 1508000000,
+      "capex": 1069000000,
+      "incomeTaxExpense": 4058000000,
+      "pretaxIncome": 33818000000,
+      "netIncome": 29760000000,
+      "accountsReceivable": 9999000000,
+      "accountsPayable": 2699000000,
+      "inventory": 5282000000,
+      "dilutedShares": 24940000000
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-01-26",
+      "source": "SEC EDGAR 10-K filed 2026-02-25 (CIK 0001045810)",
+      "revenue": 130497000000,
+      "costOfRevenue": 32639000000,
+      "grossProfit": 97858000000,
+      "operatingIncome": 81453000000,
+      "researchAndDevelopment": 12914000000,
+      "sellingGeneralAndAdmin": 3491000000,
+      "depreciationAndAmortization": 1864000000,
+      "capex": 3236000000,
+      "incomeTaxExpense": 11146000000,
+      "pretaxIncome": 84026000000,
+      "netIncome": 72880000000,
+      "accountsReceivable": 23065000000,
+      "accountsPayable": 6310000000,
+      "inventory": 10080000000,
+      "dilutedShares": 24804000000
+    },
+    {
+      "fiscalYear": 2026,
+      "periodEnd": "2026-01-25",
+      "source": "SEC EDGAR 10-K filed 2026-02-25 (CIK 0001045810)",
+      "revenue": 215938000000,
+      "costOfRevenue": 62475000000,
+      "grossProfit": 153463000000,
+      "operatingIncome": 130387000000,
+      "researchAndDevelopment": 18497000000,
+      "sellingGeneralAndAdmin": 4579000000,
+      "depreciationAndAmortization": 2843000000,
+      "capex": 6042000000,
+      "incomeTaxExpense": 21383000000,
+      "pretaxIncome": 141450000000,
+      "netIncome": 120067000000,
+      "accountsReceivable": 38466000000,
+      "accountsPayable": 9812000000,
+      "inventory": 21403000000,
+      "dilutedShares": 24514000000
+    }
+  ],
+  "segments": null,
+  "segmentsNote": "Segment revenue is reported with XBRL dimensions, which the SEC companyfacts API does not expose; left null rather than approximated. See the 10-K segment footnote for reported segments.",
+  "netDebt": {
+    "totalDebt": {
+      "value": 8468000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2026-01-25: long-term + current debt",
+      "asOf": "2026-01-25"
+    },
+    "cashAndShortTermInvestments": {
+      "value": 10605000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2026-01-25: cash & equivalents + short-term investments",
+      "asOf": "2026-01-25"
+    },
+    "netDebt": {
+      "value": -2137000000,
+      "source": "computed: total debt − cash & short-term investments (SEC EDGAR 10-K at 2026-01-25)",
+      "asOf": "2026-01-25"
+    }
+  },
+  "market": {
+    "provider": "Yahoo Finance (no-key fallback)",
+    "price": {
+      "value": 208.19,
+      "source": "Yahoo Finance public chart API, regular market price as of 2026-06-09",
+      "asOf": "2026-06-09"
+    },
+    "marketCap": {
+      "value": 5038198000000,
+      "source": "computed: Yahoo price as of 2026-06-09 x shares outstanding (SEC EDGAR 10-Q filed 2026-05-20, cover-page shares outstanding as of 2026-05-15)",
+      "asOf": "2026-06-09"
+    },
+    "sharesOutstanding": {
+      "value": 24200000000,
+      "source": "SEC EDGAR 10-Q filed 2026-05-20, cover-page shares outstanding as of 2026-05-15",
+      "asOf": "2026-05-15"
+    },
+    "beta": {
+      "value": 2.04,
+      "source": "computed from 105 weekly adjusted-close returns of NVDA vs S&P 500 (^GSPC), Yahoo Finance, as of 2026-06-09",
+      "asOf": "2026-06-09",
+      "method": "2-year weekly regression beta (cov/var vs ^GSPC)"
+    }
+  },
+  "riskFreeRate": {
+    "value": 0.0453,
+    "source": "U.S. Department of the Treasury, daily par yield curve, 10-year, as of 2026-06-09",
+    "asOf": "2026-06-09"
+  },
+  "generatedAt": "2026-06-09T22:37:38.681Z"
+}

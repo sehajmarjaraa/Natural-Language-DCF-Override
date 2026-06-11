@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "ticker": "GOOGL",
+  "cik": "0001652044",
+  "legalName": "Alphabet Inc.",
+  "sicCode": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "businessDescription": {
+    "value": "Overview As our founders Larry and Sergey wrote in the original founders' letter, \"Google is not a conventional company. We do not intend to become one.\" That unconventional spirit has been a driving force throughout our history, inspiring us to tackle big problems and invest in moonshots. It led us to be a pioneer in the development of artificial intelligence (AI) and, since 2016, be an AI-first company. We continue this work under the leadership of Alphabet and Google CEO, Sundar Pichai. Alphabet is a collection of businesses &#8212; the largest of which is Google. We report Google in two segments, Google Services and Google Cloud, and all non-Google businesses collectively as Other Bets.…",
+    "source": "SEC EDGAR 10-K filed 2026-02-05, Item 1 (Business), extracted excerpt",
+    "asOf": "2026-02-05"
+  },
+  "currency": "USD",
+  "fiscalYears": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "source": "SEC EDGAR 10-K filed 2024-01-31 (CIK 0001652044)",
+      "revenue": 257637000000,
+      "costOfRevenue": 110939000000,
+      "grossProfit": null,
+      "operatingIncome": 78714000000,
+      "researchAndDevelopment": 31562000000,
+      "sellingGeneralAndAdmin": 36422000000,
+      "depreciationAndAmortization": 10273000000,
+      "capex": 24640000000,
+      "incomeTaxExpense": 14701000000,
+      "pretaxIncome": 90734000000,
+      "netIncome": 76033000000,
+      "accountsReceivable": 39304000000,
+      "accountsPayable": 6037000000,
+      "inventory": 1170000000,
+      "dilutedShares": null
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "source": "SEC EDGAR 10-K filed 2025-02-05 (CIK 0001652044)",
+      "revenue": 282836000000,
+      "costOfRevenue": 126203000000,
+      "grossProfit": null,
+      "operatingIncome": 74842000000,
+      "researchAndDevelopment": 39500000000,
+      "sellingGeneralAndAdmin": 42291000000,
+      "depreciationAndAmortization": 13475000000,
+      "capex": 31485000000,
+      "incomeTaxExpense": 11356000000,
+      "pretaxIncome": 71328000000,
+      "netIncome": 59972000000,
+      "accountsReceivable": 40258000000,
+      "accountsPayable": 5128000000,
+      "inventory": 2670000000,
+      "dilutedShares": 13159000000
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "source": "SEC EDGAR 10-K filed 2025-02-05 (CIK 0001652044)",
+      "revenue": 307394000000,
+      "costOfRevenue": 133332000000,
+      "grossProfit": null,
+      "operatingIncome": 84293000000,
+      "researchAndDevelopment": 45427000000,
+      "sellingGeneralAndAdmin": 44342000000,
+      "depreciationAndAmortization": 11946000000,
+      "capex": 32251000000,
+      "incomeTaxExpense": 11922000000,
+      "pretaxIncome": 85717000000,
+      "netIncome": 73795000000,
+      "accountsReceivable": 47964000000,
+      "accountsPayable": 7493000000,
+      "inventory": null,
+      "dilutedShares": 12722000000
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "source": "SEC EDGAR 10-K filed 2025-02-05 (CIK 0001652044)",
+      "revenue": 350018000000,
+      "costOfRevenue": 146306000000,
+      "grossProfit": null,
+      "operatingIncome": 112390000000,
+      "researchAndDevelopment": 49326000000,
+      "sellingGeneralAndAdmin": 41996000000,
+      "depreciationAndAmortization": 15311000000,
+      "capex": 52535000000,
+      "incomeTaxExpense": 19697000000,
+      "pretaxIncome": 119815000000,
+      "netIncome": 100118000000,
+      "accountsReceivable": 52340000000,
+      "accountsPayable": 7987000000,
+      "inventory": null,
+      "dilutedShares": 12447000000
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "source": "SEC EDGAR 10-K filed 2026-02-05 (CIK 0001652044)",
+      "revenue": 402836000000,
+      "costOfRevenue": 162535000000,
+      "grossProfit": null,
+      "operatingIncome": 129039000000,
+      "researchAndDevelopment": 61087000000,
+      "sellingGeneralAndAdmin": 50175000000,
+      "depreciationAndAmortization": 21136000000,
+      "capex": 91447000000,
+      "incomeTaxExpense": 26656000000,
+      "pretaxIncome": 158826000000,
+      "netIncome": 132170000000,
+      "accountsReceivable": 62886000000,
+      "accountsPayable": 12200000000,
+      "inventory": null,
+      "dilutedShares": 12230000000
+    }
+  ],
+  "segments": null,
+  "segmentsNote": "Segment revenue is reported with XBRL dimensions, which the SEC companyfacts API does not expose; left null rather than approximated. See the 10-K segment footnote for reported segments.",
+  "netDebt": {
+    "totalDebt": {
+      "value": 48543000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2025-12-31: long-term + current debt",
+      "asOf": "2025-12-31"
+    },
+    "cashAndShortTermInvestments": {
+      "value": 126843000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2025-12-31: cash & equivalents + short-term investments",
+      "asOf": "2025-12-31"
+    },
+    "netDebt": {
+      "value": -78300000000,
+      "source": "computed: total debt − cash & short-term investments (SEC EDGAR 10-K at 2025-12-31)",
+      "asOf": "2025-12-31"
+    }
+  },
+  "market": {
+    "provider": "Yahoo Finance (no-key fallback)",
+    "price": {
+      "value": 364.26,
+      "source": "Yahoo Finance public chart API, regular market price as of 2026-06-09",
+      "asOf": "2026-06-09"
+    },
+    "marketCap": {
+      "value": 4454899800000,
+      "source": "computed: Yahoo price as of 2026-06-09 x shares outstanding (SEC EDGAR 10-K FY2025: weighted-average diluted shares (dei cover-page count not tagged; diluted used as proxy))",
+      "asOf": "2026-06-09"
+    },
+    "sharesOutstanding": {
+      "value": 12230000000,
+      "source": "SEC EDGAR 10-K FY2025: weighted-average diluted shares (dei cover-page count not tagged; diluted used as proxy)",
+      "asOf": "2025-12-31"
+    },
+    "beta": {
+      "value": 1.16,
+      "source": "computed from 105 weekly adjusted-close returns of GOOGL vs S&P 500 (^GSPC), Yahoo Finance, as of 2026-06-09",
+      "asOf": "2026-06-09",
+      "method": "2-year weekly regression beta (cov/var vs ^GSPC)"
+    }
+  },
+  "riskFreeRate": {
+    "value": 0.0453,
+    "source": "U.S. Department of the Treasury, daily par yield curve, 10-year, as of 2026-06-09",
+    "asOf": "2026-06-09"
+  },
+  "generatedAt": "2026-06-09T22:37:47.395Z"
+}

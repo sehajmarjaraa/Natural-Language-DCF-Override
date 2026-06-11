@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "ticker": "META",
+  "cik": "0001326801",
+  "legalName": "Meta Platforms, Inc.",
+  "sicCode": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "businessDescription": {
+    "value": "Overview Our mission is to build the future of human connection and the technology that makes it possible. Our products enable people to connect and share through mobile devices, personal computers, virtual reality (VR) headsets, and AI glasses. We are innovating in artificial intelligence (AI) technologies to build transformative experiences and capabilities across our Family of Apps and new platforms, and to advance our vision to deliver personal superintelligence for everyone. We build technology that helps people connect and share, find and build communities, and grow businesses. We also help people discover and learn about what is going on in the world around them, enable people to…",
+    "source": "SEC EDGAR 10-K filed 2026-01-29, Item 1 (Business), extracted excerpt",
+    "asOf": "2026-01-29"
+  },
+  "currency": "USD",
+  "fiscalYears": [
+    {
+      "fiscalYear": 2021,
+      "periodEnd": "2021-12-31",
+      "source": "SEC EDGAR 10-K filed 2024-02-02 (CIK 0001326801)",
+      "revenue": 117929000000,
+      "costOfRevenue": 22649000000,
+      "grossProfit": null,
+      "operatingIncome": 46753000000,
+      "researchAndDevelopment": 24655000000,
+      "sellingGeneralAndAdmin": 23872000000,
+      "depreciationAndAmortization": 7967000000,
+      "capex": 18690000000,
+      "incomeTaxExpense": 7914000000,
+      "pretaxIncome": 47284000000,
+      "netIncome": 39370000000,
+      "accountsReceivable": 14039000000,
+      "accountsPayable": null,
+      "inventory": null,
+      "dilutedShares": 2859000000
+    },
+    {
+      "fiscalYear": 2022,
+      "periodEnd": "2022-12-31",
+      "source": "SEC EDGAR 10-K filed 2025-01-30 (CIK 0001326801)",
+      "revenue": 116609000000,
+      "costOfRevenue": 25249000000,
+      "grossProfit": null,
+      "operatingIncome": 28944000000,
+      "researchAndDevelopment": 35338000000,
+      "sellingGeneralAndAdmin": 27078000000,
+      "depreciationAndAmortization": 8686000000,
+      "capex": 31186000000,
+      "incomeTaxExpense": 5619000000,
+      "pretaxIncome": 28819000000,
+      "netIncome": 23200000000,
+      "accountsReceivable": 13466000000,
+      "accountsPayable": null,
+      "inventory": null,
+      "dilutedShares": 2702000000
+    },
+    {
+      "fiscalYear": 2023,
+      "periodEnd": "2023-12-31",
+      "source": "SEC EDGAR 10-K filed 2026-01-29 (CIK 0001326801)",
+      "revenue": 134902000000,
+      "costOfRevenue": 25959000000,
+      "grossProfit": null,
+      "operatingIncome": 46751000000,
+      "researchAndDevelopment": 38483000000,
+      "sellingGeneralAndAdmin": 23709000000,
+      "depreciationAndAmortization": 11178000000,
+      "capex": 27045000000,
+      "incomeTaxExpense": 8330000000,
+      "pretaxIncome": 47428000000,
+      "netIncome": 39098000000,
+      "accountsReceivable": 16169000000,
+      "accountsPayable": null,
+      "inventory": null,
+      "dilutedShares": 2629000000
+    },
+    {
+      "fiscalYear": 2024,
+      "periodEnd": "2024-12-31",
+      "source": "SEC EDGAR 10-K filed 2026-01-29 (CIK 0001326801)",
+      "revenue": 164501000000,
+      "costOfRevenue": 30161000000,
+      "grossProfit": null,
+      "operatingIncome": 69380000000,
+      "researchAndDevelopment": 43873000000,
+      "sellingGeneralAndAdmin": 21087000000,
+      "depreciationAndAmortization": 15498000000,
+      "capex": 37256000000,
+      "incomeTaxExpense": 8303000000,
+      "pretaxIncome": 70663000000,
+      "netIncome": 62360000000,
+      "accountsReceivable": 16994000000,
+      "accountsPayable": null,
+      "inventory": null,
+      "dilutedShares": 2614000000
+    },
+    {
+      "fiscalYear": 2025,
+      "periodEnd": "2025-12-31",
+      "source": "SEC EDGAR 10-K filed 2026-01-29 (CIK 0001326801)",
+      "revenue": 200966000000,
+      "costOfRevenue": 36175000000,
+      "grossProfit": null,
+      "operatingIncome": 83276000000,
+      "researchAndDevelopment": 57372000000,
+      "sellingGeneralAndAdmin": 24143000000,
+      "depreciationAndAmortization": 18616000000,
+      "capex": 69691000000,
+      "incomeTaxExpense": 25474000000,
+      "pretaxIncome": 85932000000,
+      "netIncome": 60458000000,
+      "accountsReceivable": 19769000000,
+      "accountsPayable": null,
+      "inventory": null,
+      "dilutedShares": 2574000000
+    }
+  ],
+  "segments": null,
+  "segmentsNote": "Segment revenue is reported with XBRL dimensions, which the SEC companyfacts API does not expose; left null rather than approximated. See the 10-K segment footnote for reported segments.",
+  "netDebt": {
+    "totalDebt": {
+      "value": 58744000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2025-12-31: long-term + current debt",
+      "asOf": "2025-12-31"
+    },
+    "cashAndShortTermInvestments": {
+      "value": 81592000000,
+      "source": "SEC EDGAR 10-K balance sheet at 2025-12-31: cash & equivalents + short-term investments",
+      "asOf": "2025-12-31"
+    },
+    "netDebt": {
+      "value": -22848000000,
+      "source": "computed: total debt − cash & short-term investments (SEC EDGAR 10-K at 2025-12-31)",
+      "asOf": "2025-12-31"
+    }
+  },
+  "market": {
+    "provider": "Yahoo Finance (no-key fallback)",
+    "price": {
+      "value": 584.59,
+      "source": "Yahoo Finance public chart API, regular market price as of 2026-06-09",
+      "asOf": "2026-06-09"
+    },
+    "marketCap": {
+      "value": 1504734660000,
+      "source": "computed: Yahoo price as of 2026-06-09 x shares outstanding (SEC EDGAR 10-K FY2025: weighted-average diluted shares (dei cover-page count not tagged; diluted used as proxy))",
+      "asOf": "2026-06-09"
+    },
+    "sharesOutstanding": {
+      "value": 2574000000,
+      "source": "SEC EDGAR 10-K FY2025: weighted-average diluted shares (dei cover-page count not tagged; diluted used as proxy)",
+      "asOf": "2025-12-31"
+    },
+    "beta": {
+      "value": 1.47,
+      "source": "computed from 105 weekly adjusted-close returns of META vs S&P 500 (^GSPC), Yahoo Finance, as of 2026-06-09",
+      "asOf": "2026-06-09",
+      "method": "2-year weekly regression beta (cov/var vs ^GSPC)"
+    }
+  },
+  "riskFreeRate": {
+    "value": 0.0453,
+    "source": "U.S. Department of the Treasury, daily par yield curve, 10-year, as of 2026-06-09",
+    "asOf": "2026-06-09"
+  },
+  "generatedAt": "2026-06-09T22:37:54.359Z"
+}
