@@ -35,7 +35,7 @@ const fmtSourced = (s: SourcedNumber, f: (v: number) => string) =>
 export function Provenance({ company }: Props) {
   const latest = company.fiscalYears[company.fiscalYears.length - 1];
   return (
-    <section id="data" className="mx-auto max-w-5xl px-5 py-20">
+    <section id="data" className="mx-auto max-w-5xl scroll-mt-16 px-5 py-20">
       <h2 className="text-[10px] uppercase tracking-[0.2em] text-ink-faint">
         Real data &amp; provenance
       </h2>

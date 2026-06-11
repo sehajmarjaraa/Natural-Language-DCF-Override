@@ -4,6 +4,7 @@ import { deriveBaseCase } from "./engine/baseCase";
 import { runModel, attributeDrivers } from "./engine/dcf";
 import type { Overrides } from "./engine/overrides";
 import { PRESETS } from "./data/presets";
+import { Nav } from "./components/Nav";
 import { Hero } from "./components/Hero";
 import { InputPanel } from "./components/InputPanel";
 import { DcfReadout } from "./components/DcfReadout";
@@ -85,6 +86,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen">
+      <Nav />
       <Hero
         company={company}
         baseImplied={baseOutput.impliedPrice}

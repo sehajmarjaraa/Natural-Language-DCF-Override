@@ -15,7 +15,7 @@ const PANELS = [
 
 export function HowItWorks() {
   return (
-    <section className="mx-auto max-w-5xl px-5 py-20">
+    <section id="how" className="mx-auto max-w-5xl scroll-mt-16 px-5 py-20">
       <h2 className="text-[10px] uppercase tracking-[0.2em] text-ink-faint">How it works</h2>
       <div className="mt-6 grid gap-px overflow-hidden rounded-md border border-edge bg-edge sm:grid-cols-3">
         {PANELS.map((p, i) => (

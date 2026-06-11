@@ -13,11 +13,7 @@ export function Hero({ company, baseImplied, scenarioName }: Props) {
 
   return (
     <header className="mx-auto max-w-5xl px-5 pb-20 pt-24 sm:pt-32">
-      <div className="flex items-center gap-2 text-[12px] text-ink-faint">
-        <span className="inline-block h-1.5 w-1.5 rounded-full bg-accent" />
-        scenario-engine
-      </div>
-      <h1 className="mt-5 max-w-3xl text-4xl font-medium leading-[1.08] tracking-tight text-ink sm:text-5xl">
+      <h1 className="max-w-3xl text-4xl font-medium leading-[1.08] tracking-tight text-ink sm:text-5xl">
         Say what happens to the economy.
         <br />
         <span className="text-ink-dim">Watch what happens to the valuation.</span>
